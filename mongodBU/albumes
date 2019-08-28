@@ -1,0 +1,99 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d4faa0fb460f84ff9cb88a6"),
+    "Nombre" : "11:11",
+    "_artista" : [ 
+        ObjectId("5d4faad0b460f84ff9cb891b")
+    ],
+    "Genero" : "Reggaeton",
+    "FechaLanzamiento" : "15/02/2019",
+    "_canciones" : [ 
+        ObjectId("5d4fa95ab460f84ff9cb8887")
+    ],
+    "imgurl" : "https://i.scdn.co/image/fcfeec33add33dfcbf965dc0de8f5085ffd1e50f",
+    "spalb_info" : {
+        "alb_id" : "3YIUNL7qFE8NP3X3zaYSND",
+        "alb_name" : "11:11",
+        "alb_release" : "2019-05-17",
+        "alb_ref" : "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d4faba8b460f84ff9cb8969"),
+    "Nombre" : "OASIS",
+    "_artista" : [ 
+        ObjectId("5d4fa474b460f84ff9cb8761"), 
+        ObjectId("5d4faab2b460f84ff9cb8901")
+    ],
+    "Genero" : "Reggaeton",
+    "FechaLanzamiento" : "28/06/2019",
+    "_canciones" : [ 
+        ObjectId("5d4fa95ab460f84ff9cb8887")
+    ],
+    "imgurl" : "https://i.scdn.co/image/d221b18b20b8ea0c51e91167ea8374cb13c1e591",
+    "spalb_info" : {
+        "alb_id" : "6ylFfzx32ICw4L1A7YWNLN",
+        "alb_name" : "OASIS",
+        "alb_release" : "2019-06-28",
+        "alb_ref" : "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN",
+        "alb_tracks" : [ 
+            {
+                "track_num" : 1,
+                "track_name" : "MOJAITA",
+                "track_url" : "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
+            }, 
+            {
+                "track_num" : 2,
+                "track_name" : "YO LE LLEGO",
+                "track_url" : "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+            }, 
+            {
+                "track_num" : 3,
+                "track_name" : "CUIDAO POR AHÍ",
+                "track_url" : "https://open.spotify.com/track/6SYSu569pfYdkDT9A5lZqi"
+            }, 
+            {
+                "track_num" : 4,
+                "track_name" : "QUE PRETENDES",
+                "track_url" : "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+            }, 
+            {
+                "track_num" : 5,
+                "track_name" : "LA CANCIÓN",
+                "track_url" : "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+            }, 
+            {
+                "track_num" : 6,
+                "track_name" : "UN PESO",
+                "track_url" : "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
+            }, 
+            {
+                "track_num" : 7,
+                "track_name" : "ODIO",
+                "track_url" : "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
+            }, 
+            {
+                "track_num" : 8,
+                "track_name" : "COMO UN BEBÉ",
+                "track_url" : "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+            }
+        ]
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d5d7d163f722d6f59a1bacf"),
+    "Nombre" : "Sueños",
+    "_artista" : [ 
+        ObjectId("5d5d7ce03f722d6f59a1baa7")
+    ],
+    "Genero" : "Reggaeton",
+    "FechaLanzamiento" : "28/06/2019",
+    "_canciones" : [ 
+        ObjectId("5d4fa95ab460f84ff9cb8887")
+    ],
+    "imgurl" : "https://i.scdn.co/image/543a8bfea02e2dbdbf0b87d78ecdff10c9774d18"
+}

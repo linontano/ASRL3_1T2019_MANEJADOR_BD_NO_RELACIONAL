@@ -1,0 +1,144 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d4fa95ab460f84ff9cb8887"),
+    "Nombre" : "11:11",
+    "_artista" : [ 
+        ObjectId("5d4fa474b460f84ff9cb8761")
+    ],
+    "reproducciones" : "1523",
+    "_album" : ObjectId("5d4faa0fb460f84ff9cb88a6"),
+    "imgurl" : "https://i.scdn.co/image/b22b9b1293d23b6c417931e497c44e5a3382cf84",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/IBaSizQyC5g\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "sp_info" : {
+        "name" : "11 PM",
+        "track_id" : "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d",
+        "preview" : "https://p.scdn.co/mp3-preview/2993254fae01c3abd401c55d9d30937a8b130c9e?cid=27c281e255a6496aa530a61e8f03d7b9",
+        "name_album" : "11:11",
+        "artists" : [ 
+            {
+                "spart_id" : "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
+                "spart_name" : "Maluma"
+            }
+        ],
+        "img" : "https://i.scdn.co/image/b22b9b1293d23b6c417931e497c44e5a3382cf84"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d4fac47b460f84ff9cb89d3"),
+    "Nombre" : "MOJAITA",
+    "_artista" : [ 
+        ObjectId("5d4faad0b460f84ff9cb891b"), 
+        ObjectId("5d4faab2b460f84ff9cb8901")
+    ],
+    "reproducciones" : "1523",
+    "_album" : ObjectId("5d4faba8b460f84ff9cb8969"),
+    "imgurl" : "https://i.scdn.co/image/8a88582386dbcbdfafb2cbba3664fda31ac4075f",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/hnm3IxupbgU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d4fad8cb460f84ff9cb8a74"),
+    "Nombre" : "LA CANCION",
+    "_artista" : [ 
+        ObjectId("5d4faad0b460f84ff9cb891b"), 
+        ObjectId("5d4faab2b460f84ff9cb8901")
+    ],
+    "reproducciones" : "2538",
+    "_album" : ObjectId("5d4faba8b460f84ff9cb8969"),
+    "imgurl" : "https://i.scdn.co/image/8a88582386dbcbdfafb2cbba3664fda31ac4075f",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/osTJc5e1Cyo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "sp_info" : {
+        "name" : "LA CANCIÓN",
+        "track_id" : "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18",
+        "preview" : null,
+        "name_album" : "OASIS",
+        "artists" : [ 
+            {
+                "spart_id" : "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5",
+                "spart_name" : "J Balvin"
+            }, 
+            {
+                "spart_id" : "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "spart_name" : "Bad Bunny"
+            }
+        ],
+        "img" : "https://i.scdn.co/image/8a88582386dbcbdfafb2cbba3664fda31ac4075f"
+    }
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d4fadabb460f84ff9cb8a78"),
+    "Nombre" : "YO LE LLEGO",
+    "_artista" : [ 
+        ObjectId("5d4faad0b460f84ff9cb891b"), 
+        ObjectId("5d4faab2b460f84ff9cb8901")
+    ],
+    "reproducciones" : "2538",
+    "_album" : ObjectId("5d4faba8b460f84ff9cb8969"),
+    "imgurl" : "https://i.scdn.co/image/8a88582386dbcbdfafb2cbba3664fda31ac4075f",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/osTJc5e1Cyo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d5d7bec3f722d6f59a1b9e8"),
+    "Nombre" : "Jaleo",
+    "_artista" : [ 
+        ObjectId("5d5d7b883f722d6f59a1b9ad")
+    ],
+    "reproducciones" : "2538",
+    "imgurl" : "https://i.scdn.co/image/287c83a8adcfcfb5ad9337fbc077cd23cc0843e9",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/CIK5ZxzDLkA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d5d7d813f722d6f59a1bb57"),
+    "Nombre" : "Otro Trago",
+    "_artista" : [ 
+        ObjectId("5d5d7ce03f722d6f59a1baa7")
+    ],
+    "reproducciones" : "2538",
+    "_album" : ObjectId("5d5d7d163f722d6f59a1bacf"),
+    "imgurl" : "https://i.scdn.co/image/543a8bfea02e2dbdbf0b87d78ecdff10c9774d18",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/t_qn-f7XfJo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5d5f174c3f722d6f59a1c99e"),
+    "Nombre" : "Un Peso",
+    "_artista" : [ 
+        ObjectId("5d4faad0b460f84ff9cb891b"), 
+        ObjectId("5d4faab2b460f84ff9cb8901")
+    ],
+    "reproducciones" : "2538",
+    "_album" : ObjectId("5d4faba8b460f84ff9cb8969"),
+    "imgurl" : "https://i.scdn.co/image/8a88582386dbcbdfafb2cbba3664fda31ac4075f",
+    "yt_embed" : "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7o2_OnTFmmA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "sp_info" : {
+        "name" : "UN PESO",
+        "track_id" : "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa",
+        "preview" : null,
+        "name_album" : "OASIS",
+        "artists" : [ 
+            {
+                "spart_id" : "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5",
+                "spart_name" : "J Balvin"
+            }, 
+            {
+                "spart_id" : "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+                "spart_name" : "Bad Bunny"
+            }, 
+            {
+                "spart_id" : "https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO",
+                "spart_name" : "Marciano Cantero"
+            }
+        ],
+        "img" : "https://i.scdn.co/image/8a88582386dbcbdfafb2cbba3664fda31ac4075f"
+    }
+}

@@ -1,0 +1,59 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d4f1ac7af5e09795010c575"),
+    "Nombre" : "Dario",
+    "Apellidos" : "Realpe",
+    "Correo" : "drealpe@espol.edu.ec",
+    "Usuario" : "drealpe",
+    "Password" : "$2y$10$vKutCKyqU/fzx3tdpr3a5eIqceQfFogqC8344rlZKm10YddDXviky"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d4f6469af5e092d7b66ae62"),
+    "Nombre" : "Ariana",
+    "Apellidos" : "Ochoa",
+    "Correo" : "aochoa@espol.edu.ec",
+    "Usuario" : "aochoa2",
+    "Password" : "$2y$10$B2RHhafpfDzB3UWfWHsrLOh1bUxBRD8RXVqzv8nBXvvXXxrvM1AkG"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d4f6800af5e093e78420a32"),
+    "Nombre" : "Lino ",
+    "Apellidos" : "Ontano",
+    "Correo" : "linontano88@gmail.com",
+    "Usuario" : "lianov",
+    "Password" : "$2y$10$8QQDm41OwH4QHPzOVYfxWu9DWUlOQvT1vmmWtc3E05OaO83A/mMK."
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d4f6978af5e092343740b62"),
+    "Nombre" : "Lino",
+    "Apellidos" : "Ontano",
+    "Correo" : "linontano88@gmail.com",
+    "Usuario" : "lianontano",
+    "Password" : "$2y$10$FDCYeXdvmlwqN3tqLqygVeQwF7cLeFWd3tAEGG4ZjrFF04pN8TD6C"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d5e5310af5e097ab0014be2"),
+    "Nombre" : "Administrador",
+    "Apellidos" : "Administrador",
+    "Correo" : "admin@gmail.com",
+    "Usuario" : "root",
+    "Password" : "$2y$10$AZgoiZV9E48PKzhqyz/BTOev773Pv999FmIimMHX5r3VzrBLhUc7W"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d5f15feaf5e09166e7a7b82"),
+    "Nombre" : "Grey",
+    "Apellidos" : "Armijos",
+    "Correo" : "garmijos@espol.edu.ec",
+    "Usuario" : "garmijos",
+    "Password" : "$2y$10$qv4H927Fx/9O8PMciNfGc.iTspduTnDPEE9JY/e.MvRQnzYC.xBju"
+}

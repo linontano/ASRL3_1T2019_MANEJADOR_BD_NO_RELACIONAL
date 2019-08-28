@@ -1,0 +1,76 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d4fa474b460f84ff9cb8761"),
+    "Nombre" : "Maluma",
+    "Pais" : "Colombia",
+    "Busquedas" : 74,
+    "imgurl" : "https://i.scdn.co/image/6955535e0726c8a967036ef3b2d83ee48231299b",
+    "spotify_id" : "1r4hJ1h58CWwUQe3MxPuau",
+    "yt_id" : "UClZuKq2m0Qu-HkopkSBLpEw"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d4faab2b460f84ff9cb8901"),
+    "Nombre" : "J Balvin",
+    "Pais" : "Colombia",
+    "Busquedas" : 68,
+    "imgurl" : "https://i.scdn.co/image/9029a366dfe5a30622b4b002d4a17c5e0a1c7d94",
+    "spotify_id" : "1vyhD5VmyZ7KMfW5gqLgo5",
+    "yt_id" : "UCt-k6JwNWHMXDBGm9IYHdsg"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d4faad0b460f84ff9cb891b"),
+    "Nombre" : "Bad Bunny",
+    "Pais" : "Puerto Rico",
+    "Busquedas" : 79,
+    "imgurl" : "https://i.scdn.co/image/1c874c34edcd8ff055a4e7b354c6402f4b11d6a3",
+    "spotify_id" : "4q3ewBCX7sLwd24euuV69X",
+    "yt_id" : "UCmBA_wu8xGg1OfOkfW13Q0Q"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d5ae76af3e3d8636743f43f"),
+    "Nombre" : "Rocio Durcal",
+    "Pais" : "Mexico",
+    "Busquedas" : 24,
+    "imgurl" : "https://i.scdn.co/image/e86759a8a0e91494b1874e5a3fc927063f495efc",
+    "spotify_id" : "2uyweLa0mvPZH6eRzDddeB",
+    "yt_id" : "UCM6jMm209P2xHdi7nAOFulA"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d5d7b883f722d6f59a1b9ad"),
+    "Nombre" : "Nicky Jam",
+    "Pais" : "Puerto Rico",
+    "Busquedas" : 4,
+    "imgurl" : "https://i.scdn.co/image/ab508ae0bb9be23cf01e4178df174e5c6f49cdac",
+    "spotify_id" : "1SupJlEpv7RS2tPNRaHViT",
+    "yt_id" : "UCpb_iJuhFe8V6rQdbNqfAlQ"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d5d7ce03f722d6f59a1baa7"),
+    "Nombre" : "Sech",
+    "Pais" : "Panama",
+    "Busquedas" : 10,
+    "imgurl" : "https://i.scdn.co/image/55ad0301a71f0fb921ad7f9791cd0b8b2d856ba4",
+    "spotify_id" : "77ziqFxp5gaInVrF2lj4ht",
+    "yt_id" : "UCte53PewI8_jYpBYn071MqQ"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5d5f196e3f722d6f59a1ca32"),
+    "Nombre" : "Ricardo Arjona",
+    "Pais" : "Guatemala",
+    "Busquedas" : 26,
+    "imgurl" : "https://i.scdn.co/image/57184945139673af4acde46054054f5ae33d24e4",
+    "spotify_id" : "0h1zs4CTlU9D2QtgPxptUD",
+    "yt_id" : "UCu4MUKzbk6eWF-mbMB39jTQ"
+}
